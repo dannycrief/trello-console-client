@@ -7,5 +7,5 @@ with open("README.md", "r") as fh:
         author_email="step.kozbvb@icloud.com",
         description="First console client for Trello!", long_description=long_description,
         long_description_content_type="text/markdown",
-        url="[https://github.com/dannycrief/trello-console-client](https://github.com/dannycrief/trello-console-client)"
+        url="https://github.com/dannycrief/trello-console-client"
     )
