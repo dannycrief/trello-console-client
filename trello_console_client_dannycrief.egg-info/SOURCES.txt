@@ -1,0 +1,6 @@
+README.md
+setup.py
+trello_console_client_dannycrief.egg-info/PKG-INFO
+trello_console_client_dannycrief.egg-info/SOURCES.txt
+trello_console_client_dannycrief.egg-info/dependency_links.txt
+trello_console_client_dannycrief.egg-info/top_level.txt
